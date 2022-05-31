@@ -1,2 +1,3 @@
 # Nath_Portofolio
-This is my first portofolio, HTML CSS BOOTSTRAP 5
+This is my first simple project portofolio
+Language that i use here : HTML CSS BOOTSTRAP 5
